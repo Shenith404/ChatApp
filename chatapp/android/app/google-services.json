@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1088486329965",
+    "project_id": "shenith-chatapp",
+    "storage_bucket": "shenith-chatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088486329965:android:1a502826757203b92db964",
+        "android_client_info": {
+          "package_name": "com.Shenith.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkdt1X_WCf3pJ7-zRAbvuRpaEnuXQ_3x4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
